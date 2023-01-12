@@ -1,0 +1,107 @@
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\bin\Debug\Парсер.exe.config
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\bin\Debug\Парсер.exe
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\bin\Debug\Парсер.pdb
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.Form1.resources
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.exe
+c:\users\milch\documents\visual studio 2015\Projects\Парсер\Парсер\obj\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер\Парсер\bin\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер\Парсер\bin\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\milch\Desktop\Парсер\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+E:\Парсер\Парсер\bin\Debug\Парсер.exe.config
+E:\Парсер\Парсер\obj\Debug\Парсер.exe
+E:\Парсер\Парсер\obj\Debug\Парсер.pdb
+E:\Парсер\Парсер\bin\Debug\Парсер.exe
+E:\Парсер\Парсер\bin\Debug\Парсер.pdb
+E:\Парсер\Парсер\bin\Debug\mscorlib.dll
+E:\Парсер\Парсер\bin\Debug\System.Net.Http.dll
+E:\Парсер\Парсер\bin\Debug\System.Net.Http.xml
+E:\Парсер\Парсер\bin\Debug\ru\mscorlib.resources.dll
+E:\Парсер\Парсер\bin\Debug\ru\System.Net.Http.resources.dll
+E:\Парсер\Парсер\bin\Debug\normidna.nlp
+E:\Парсер\Парсер\bin\Debug\normnfc.nlp
+E:\Парсер\Парсер\bin\Debug\normnfd.nlp
+E:\Парсер\Парсер\bin\Debug\normnfkc.nlp
+E:\Парсер\Парсер\bin\Debug\normnfkd.nlp
+E:\Парсер\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+E:\Парсер\Парсер\obj\Debug\Парсер.Form1.resources
+E:\Парсер\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+E:\Парсер\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe.config
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.exe
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.pdb
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.pdb
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Form1.resources
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+E:\универ\4 семестр\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.pdb
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.GenerateResource.cache
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.CoreCompileInputs.cache
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.exe
+C:\Users\ZentKHV\Desktop\тмп\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.pdb
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.pdb
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.GenerateResource.cache
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.CoreCompileInputs.cache
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.exe
+C:\Users\ZentKHV\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\bin\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\milch\Desktop\Парсер(рекурсия)\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\bin\Debug\Парсер.exe
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\bin\Debug\Парсер.pdb
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.csprojResolveAssemblyReference.cache
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\milch\Desktop\Парсер (2 класса)\Парсер\obj\Debug\Парсер.csproj.GenerateResource.Cache
+E:\универ\4 семестр\тмп\Парсер (2 класса)\Парсер\bin\Debug\Парсер.exe.config
+E:\универ\4 семестр\тмп\Парсер (2 класса)\Парсер\obj\Debug\Парсер.exe
+E:\универ\4 семестр\тмп\Парсер (2 класса)\Парсер\obj\Debug\Парсер.pdb
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.exe
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.pdb
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.exe
+C:\Users\Админ\Desktop\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.pdb
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.exe.config
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.exe
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\bin\Debug\Парсер.pdb
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.Form1.resources
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.Properties.Resources.resources
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.exe
+C:\Users\Админ\Desktop\прошлые семестры\4 семестр\тмп\Курсовой\Калькулятор\Парсер\obj\Debug\Парсер.pdb
